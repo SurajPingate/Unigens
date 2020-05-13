@@ -17,3 +17,13 @@ This file is in .cpp format you can clone it to your local device and run in you
 
 It is program to find factorial of number. In this program you can find factorial of number you want.
 This file is in .cpp format you can clone it to your local device and run in your IDE
+
+### LeapYear
+
+It is program to find entered year is Leap year or not. in this program you can find that your entered year is Leap year or not.
+This file is in .cpp format you can clone it to your local device and run in your IDE
+
+### OddEven
+
+It is simple program to find entered number is odd or even. in this program you can check your entered no is even or odd.
+This file is in .cpp format you can clone it to your local device and run in your IDE
